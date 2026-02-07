@@ -43,4 +43,33 @@ Configura tus credenciales en el archivo conexion.py.
 - ZAMBRANO KELY
 
 -EVIDENCIA
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/8fe22b47-eb19-4893-8c3c-dd7c2cc1b3d7" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/459ed4fc-4226-4849-bcb0-223665722918" />
+
+
+- FUNCION READ
+- <img width="1365" height="762" alt="image" src="https://github.com/user-attachments/assets/5457b879-633d-4fac-ac83-312bced1ab02" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ca8abd00-aff8-484b-bfa0-4342f61dd6d9" />
+
+  FUNCION INSERT
+  <img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/cbc894f1-e4bb-4ab0-9036-ed803a2e702d" />
+  <img width="1365" height="762" alt="image" src="https://github.com/user-attachments/assets/eba07801-2aba-4349-aebb-7a3b1ce59c8e" />
+  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/82605a6c-a6ed-41e4-8489-d096186bf4e2" />
+
+- FUNCION UPDATE
+   <img width="1365" height="764" alt="image" src="https://github.com/user-attachments/assets/0223e5d6-4bcc-4805-b885-68a0eabb4d9d" />
+   <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/db422168-14ba-4589-bb3a-c91120199233" />
+   
+- FUNCION DELETE
+  <img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/35c39e11-a0c9-4aa4-a96c-9aed7d09bc56" />
+  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/22f3ebc0-fa88-4d20-9a21-746ce5975a3b" />
+  <img width="1354" height="767" alt="image" src="https://github.com/user-attachments/assets/403cc2e2-cee9-443b-b4ea-707742958699" />
+  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f4dc327b-7c81-4870-8d22-aba75aa2089c" />
+- 
+
+
+
+- 
+
+
+
+
