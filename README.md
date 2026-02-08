@@ -36,6 +36,9 @@ pip install PyQt6 cx_Oracle
 Ejecuta el script db.sql (incluido en el repositorio) para crear las tablas necesarias.
 Configura tus credenciales en el archivo conexion.py.
 
+LINK DE VIDEO CON EXPLICACION DE PROYECTO Y EJECUCION DEL MISMO 
+https://drive.google.com/file/d/1cA9UjmN-bwylysDZ2A32rPPePd82IT94/view?usp=sharing
+
 👥 Integrantes
 - HERNANDEZ AMADA
 - SOLIS BRIGGITTE
